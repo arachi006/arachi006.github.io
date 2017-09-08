@@ -25,7 +25,7 @@ if(x=="1"){xxx="choose-insurance-or-investment.html"}
 if(x=="2"){xxx="6-great-tips-to-get-health-care.html"}
 if(x=="3"){xxx="tips-for-choosing-right-health.html"}
 if(x=="4"){xxx="general-and-special-insurance-benefits.html"}
-if(x=="5"){xxx="4-things-you-need-to-know-before.html"}a_to_ve[i].href="https://link-mv21.blogspot.com/2017/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="4-things-you-need-to-know-before.html"}a_to_ve[i].href="http://dl.mv21.me/2017/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
